@@ -39,4 +39,4 @@ If you edited the file localy on your machine rather than online at GitHub you n
 
 # Remove template posts
 
-Remove all `.md`-files in the directory `_posts`, either online at GitHub or on your local machine repository, e.g. using `git rm _posts/*.md` in a terminal in your project path. Commit and push. 
+Remove all `.md`-files in the directory `_posts`, either online at GitHub or on your local machine repository, e.g. using `git rm _posts/*.md` in a terminal in your project path. Commit and push, e.g. using `git commit -m "Removed old template posts` and `git push` in a terminal in your project path.
