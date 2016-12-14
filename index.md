@@ -3,5 +3,5 @@ layout: default
 title: "City of Gothenburg - Open Data"
 ---
 
-<img src="images/gbg_li_col.png" class="inline"/>
+<img src="images/city_of_gothenburg_wide.png" class="inline"/>
 
